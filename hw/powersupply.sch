@@ -36,7 +36,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 4
+Sheet 4 4
 Title ""
 Date ""
 Rev ""
@@ -46,24 +46,15 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 4400 950  1650 2950
-U 56FD04CB
-F0 "Processor" 60
-F1 "../../plugmodules/processing/stm32f4x1R.sch" 60
-$EndSheet
-Text Notes 4450 4350 0    60   ~ 0
-Power:\nVDD = 1V8 - 3V3\nVBAT = 1V7 - 3V6\nVDDA = 1V7 - 3V3
-$Sheet
-S 8350 1050 1750 2700
-U 56FDA94C
-F0 "Sheet56FDA94B" 60
-F1 "../../plugmodules/audio/codec/tlv320aic3104.sch" 60
-$EndSheet
-$Sheet
-S 900  1200 1550 2150
-U 56FE5244
-F0 "PowerSupply" 60
-F1 "powersupply.sch" 60
-$EndSheet
+$Comp
+L C_Small C?
+U 1 1 56FE5263
+P 1900 4000
+F 0 "C?" H 1910 4070 50  0000 L CNN
+F 1 "C_Small" H 1910 3920 50  0000 L CNN
+F 2 "" H 1900 4000 50  0000 C CNN
+F 3 "" H 1900 4000 50  0000 C CNN
+	1    1900 4000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

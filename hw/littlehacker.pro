@@ -1,4 +1,4 @@
-update=Qui 31 Mar 2016 08:09:46 BRT
+update=Qui 31 Mar 2016 19:27:34 BRT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=microcontroller
+LibName31=/home/familia/projetos/pessoais/libcomp/tlv320aic3104
+LibName32=codec
