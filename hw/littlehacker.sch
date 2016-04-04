@@ -93,7 +93,7 @@ $Sheet
 S 1150 900  1550 2150
 U 56FE5244
 F0 "PowerSupply" 60
-F1 "../../plugmodules/power/linear3v3.sch" 60
+F1 "../../plugmodules/power/switched3v3.sch" 60
 $EndSheet
 Wire Wire Line
 	6050 1250 6750 1250
