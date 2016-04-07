@@ -1,4 +1,4 @@
-update=Qui 31 Mar 2016 19:27:34 BRT
+update=Qui 07 Abr 2016 07:44:06 BRT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../pluglib/processing;../../pluglib/audio;../../pluglib/comm
+LibDir=../../pluglib/processing;../../pluglib/audio;../../pluglib/comm;../../pluglib/power;../../pluglib/analog
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,5 +59,8 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=microcontroller
-LibName31=/home/familia/projetos/pessoais/libcomp/tlv320aic3104
-LibName32=codec
+LibName31=codec
+LibName32=switched_regulator
+LibName33=ampop
+LibName34=audio_conn
+LibName35=esdprotection
