@@ -1,4 +1,4 @@
-update=Qui 07 Abr 2016 07:44:06 BRT
+update=Qui 07 Abr 2016 08:05:29 BRT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../pluglib/processing;../../pluglib/audio;../../pluglib/comm;../../pluglib/power;../../pluglib/analog
+LibDir=../../pluglib/processing;../../pluglib/audio;../../pluglib/comm;../../pluglib/power;../../pluglib/analog;../../pluglib/miscelaneous
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -64,3 +64,4 @@ LibName32=switched_regulator
 LibName33=ampop
 LibName34=audio_conn
 LibName35=esdprotection
+LibName36=connectors
