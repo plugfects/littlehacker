@@ -1,4 +1,4 @@
-update=Qui 07 Abr 2016 08:05:29 BRT
+update=Seg 11 Abr 2016 07:01:31 BRT
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,4 @@ LibName33=ampop
 LibName34=audio_conn
 LibName35=esdprotection
 LibName36=connectors
+LibName37=linear_regulator

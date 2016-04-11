@@ -35,6 +35,7 @@ LIBS:ampop
 LIBS:audio_conn
 LIBS:esdprotection
 LIBS:connectors
+LIBS:linear_regulator
 LIBS:littlehacker-cache
 EELAYER 25 0
 EELAYER END
@@ -97,7 +98,7 @@ $Sheet
 S 8950 5400 1850 700 
 U 56FE5244
 F0 "PowerSupply" 60
-F1 "../../plugmodules/power/switched3v3.sch" 60
+F1 "../../plugmodules/power/ldo-sot23-5-3v3at300ma.sch" 60
 $EndSheet
 Wire Wire Line
 	4550 1150 5250 1150
