@@ -1,4 +1,4 @@
-update=Sáb 16 Abr 2016 13:16:24 BRT
+update=Dom 17 Abr 2016 11:36:35 BRT
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,4 +66,4 @@ LibName34=audio_conn
 LibName35=esdprotection
 LibName36=connectors
 LibName37=linear_regulator
-LibName38=/home/familia/projetos/pessoais/old_plugfects/devices/plughack/hw/plughack
+LibName38=touch_probes
